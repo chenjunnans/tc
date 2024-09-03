@@ -1,0 +1,14 @@
+me\zhengjie\service\mapstruct\LogSmallMapperImpl.class
+me\zhengjie\domain\SysLog.class
+me\zhengjie\aspect\LogAspect.class
+me\zhengjie\service\dto\SysLogErrorDto.class
+me\zhengjie\service\dto\SysLogSmallDto.class
+me\zhengjie\repository\LogRepository.class
+me\zhengjie\service\mapstruct\LogSmallMapper.class
+me\zhengjie\service\dto\SysLogQueryCriteria.class
+me\zhengjie\annotation\Log.class
+me\zhengjie\service\mapstruct\LogErrorMapperImpl.class
+me\zhengjie\rest\SysLogController.class
+me\zhengjie\service\mapstruct\LogErrorMapper.class
+me\zhengjie\service\impl\SysLogServiceImpl.class
+me\zhengjie\service\SysLogService.class

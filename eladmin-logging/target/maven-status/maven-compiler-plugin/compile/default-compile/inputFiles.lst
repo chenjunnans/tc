@@ -1,0 +1,12 @@
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\aspect\LogAspect.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\repository\LogRepository.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\service\dto\SysLogErrorDto.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\service\mapstruct\LogErrorMapper.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\domain\SysLog.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\rest\SysLogController.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\service\dto\SysLogQueryCriteria.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\service\SysLogService.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\annotation\Log.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\service\mapstruct\LogSmallMapper.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\service\impl\SysLogServiceImpl.java
+G:\同城信息\tc-master\eladmin-logging\src\main\java\me\zhengjie\service\dto\SysLogSmallDto.java
